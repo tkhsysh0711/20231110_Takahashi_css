@@ -39,17 +39,17 @@ img{
 }
 
 .main-text{
-    font-size: 60px;
+    font-size: 5vw;
     font-weight: lighter;
     position: absolute;
-    top: 270px;
+    top: 15vw;
 }
 .square{
     background: rgb(4, 4, 167);
-    height: 170px;
-    width: 1050px;
+    height: 13vw;
+    width: 80%;
     position: absolute;
     left: -8px;
-    top: 400px;
+    top: 25vw;
     z-index: -1;
 }
